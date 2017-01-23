@@ -1,0 +1,13 @@
+﻿Построение начато 23.01.2017 21:06:01.
+     1>Проект "C:\Projects\hello world 3\hello world 3\hello world 3.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\hello world 3.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "hello world.cpp"
+         hello world.cpp
+     1>c:\projects\hello world 3\hello world 3\hello world.cpp(1): fatal error C1083: Не удается открыть файл включение: cv.h: No such file or directory
+     1>Построение проекта "C:\Projects\hello world 3\hello world 3\hello world 3.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.49
